@@ -1,7 +1,6 @@
 # Hi, I'm Qingyin 👋
 
-
-MSc in Artificial Intelligence @ HKUST · Interested in LLM agents & AI application development  
+Interested in LLM agents & AI application development  
 📍 Hong Kong
 
 
